@@ -9,3 +9,5 @@
 ## 工具
 [git官网](https://git-scm.com/)  
 [visual-paradigm](https://www.visual-paradigm.com/cn/)
+[OkHttp](https://square.github.io/okhttp/)
+[github登录授权](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
