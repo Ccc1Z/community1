@@ -10,4 +10,6 @@
 [git官网](https://git-scm.com/)  
 [visual-paradigm](https://www.visual-paradigm.com/cn/)
 [OkHttp](https://square.github.io/okhttp/)
-[github登录授权](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
+[github登录授权](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/N)
+[h2database](http://www.h2database.com/html/quickstart.html)
+[Springboot集成MyBatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
