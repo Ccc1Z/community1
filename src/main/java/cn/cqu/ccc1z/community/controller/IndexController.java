@@ -35,5 +35,6 @@ public class IndexController {
 
 
 
-        return "index";}
+        return "index";
+    }
 }
