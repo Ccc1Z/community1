@@ -14,3 +14,6 @@
 [h2database](http://www.h2database.com/html/quickstart.html)
 [Springboot集成MyBatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
 [flyway](https://flywaydb.org/)
+[lombok](        model.addAttribute("title",title);
+                 model.addAttribute("description",description);
+                 model.addAttribute("tag",tag);)
